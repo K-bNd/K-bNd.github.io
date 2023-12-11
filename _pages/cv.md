@@ -14,7 +14,7 @@ redirect_from:
 - B.S. in Computer Engineering, EPITA, 2019-2021
 - M.S. in Machine Learning and Data Science, EPITA, 2022-2024
 
-Subjects:
+## Subjects
 
 - Deep Neural Networks
 - Reinforcement Learning
