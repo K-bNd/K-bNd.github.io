@@ -40,16 +40,14 @@ Implemented the Deep QLearning model from the [Nature paper](https://www.nature.
 - Weights & Biases
 - Gymnasium
 
-## MLOPS - Automatic Speech Recognition API
+## DINOv2 implementation - Computer Vision
 
-Built and deployed an ASR API using a quantized model for faster inference.
+Currently implementing the DINOv2 paper from Meta AI
 
 ### Libraries used
 
-- Whisper (OpenAI)
-- Docker
-- FastAPI
-- CTranslate2
+- Pytorch
+- Weights & Biases
 
 ## MLOPS/Chatbot - End-of-studies project
 
