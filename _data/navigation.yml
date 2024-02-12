@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "CV (pdf)"
+    url: /files/cv.pdf
 
   - title: "CV"
     url: /cv/
