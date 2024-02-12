@@ -30,7 +30,7 @@ redirect_from:
 
 # Academic projects
 
-## DQN implementation - Reinforcement Learning
+## Reinforcement Learning - DQN implementation
 
 Implemented the Deep QLearning model from the [Nature paper](https://www.nature.com/articles/nature14236).
 
@@ -38,11 +38,11 @@ Implemented the Deep QLearning model from the [Nature paper](https://www.nature.
 
 - Pytorch
 - Weights & Biases
-- Gymnasium
+- OpenAI Gym / Gymnasium
 
-## DINOv2 implementation - Computer Vision
+## Computer Vision - DINOv1 implementation
 
-Currently implementing the DINOv2 paper from Meta AI
+Implemented the [DINOv1 model](https://arxiv.org/pdf/2104.14294.pdf) from FAIR
 
 ### Libraries used
 
@@ -51,9 +51,8 @@ Currently implementing the DINOv2 paper from Meta AI
 
 ## MLOPS/Chatbot - End-of-studies project
 
-Added AI-powered features to a learning platform for l’Ecole
-Polytechnique (audio transcript, subtitles, summaries etc.)
-Creating a RAG chatbot to help students.
+Led team to add and optimise machine learning features to a learning platform for l’Ecole Polytechnique (transcript, subtitles, summaries etc.) with Whisper and OpenAI API
+Deployed solutions on a FastAPI app with Docker on a AWS EC2 instance
 
 ### Tools used
 
@@ -63,6 +62,17 @@ Creating a RAG chatbot to help students.
 - FastAPI
 - Pinecone
 - AWS
+- Langchain
+- Flask
+
+## Data analysis - Portfolio management
+
+Used PySpark and statistics analysis to provide insights for portfolio management.
+
+## Data analysis - EGC 2024: Bitcoin dataset
+
+Submitted an article summarizing the research work carried out 
+on or using the data provided as part of the challenge.
 
 # Skills
 
@@ -74,11 +84,16 @@ Creating a RAG chatbot to help students.
   - Numpy
   - Pandas
   - Matplotlib
+  - Seaborn
+  - Langchain
+  - Huggingface
+  - scikit-learn
+  - OpenCV
 - ML libraries
   - Pytorch
   - Tensorflow
   - Scikit-learn
-  - Gymnasium (Reinforcement Learning)
+  - OpenAI Gym / Gymnasium (Reinforcement Learning)
 - ML deployment/monitoring
   - FastAPI
   - Flask
