@@ -16,9 +16,22 @@ Education
 
 Work experience
 ======
-* Spring 2024 - Present: ML/MLOps Engineer
-  * Valeo Brain Division
-  * Integrating multiple models for the LiDAR Perception team, improving pipelines for generating pseudo-labels on LiDAR data on GCP
+* Spring 2024 - Present: ML/MLOps Engineer @ Valeo Brain Division
+  * Co-developed L2+/L3 autonomous driving features (lane detection, vehicle detection, and multi-object tracking) using SOTA research for pseudo-label generation comparable to manual annotation
+  * Led the development of scalable Dataflow LiDAR perception pipelines enabling 100× faster throughput than manual annotation with only a slight KPI reduction.
+  * Implemented a training pipeline with KFP and Pytorch Lightning for on-board semantic segmentation.
+  * Developed internal cloud-based platform for point-cloud visualization, dataset creation and pipeline triggering, reducing data-access time from hours to ~seconds and eliminating egress-heavy workflows.
+
+
+Personal projects
+======
+* LeRobot Hackathon / LeKiwi
+  * Won the 2025 GOSIM AI LeRobot x Seeed studio hackathon in Paris
+  * Built a mobile base for my SO-100 (LeKiwi)
+  * Developed face tracking and voice localization with dora-rs and ODAS
+* Deep Learning for Perception
+  * Trained multiple Deep Learning models from scratch on ImageNet with PyTorch Lightning
+  * Reached original ResNet paper’s performance (92% Acc@5) on a 20e budget
 
 Skills
 ======

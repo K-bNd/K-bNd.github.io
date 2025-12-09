@@ -12,27 +12,26 @@ redirect_from:
 I will use this page to explain my personal projects a bit more.
 For projects that include training models, I will try to add graphs and a blog post if needed.
 
-Here's the [current main repo](https://github.com/K-bNd/cv_101).
-
 Model implementation and training
 ======
 * Image classification
-  * ResNet trained on both ImageNet and CIFAR10 (current)
+  * ResNet trained on ImageNet (reached 92% Acc@5) best run [link](https://api.wandb.ai/links/kevin-brian-n-diaye/h21b0ctb)
 * Semantic segmentation
   * SegNet
   * BiSeNet V2
 
 "Client-focused" projects
 ======
-* GenAI for education
-  * Integrated Whisper for subtitle generation on educational content
+* GenAI for education @ Ecole Polytechnique
+  * Integrated Whisper workflow for subtitle generation on educational content
   * Added meetings' summary and transcript for teachers
   * Clients: Teachers and students
 
 Robotics
 ======
 * Won the GOSIM AI Paris robotics hackathon
-* Future: upgrade current SO-101 setup to LeKiwi
+* Upgrade current SO-100 setup to LeKiwi
+* Added face tracking and voice localization with dora-rs
 
 <!-- Publications
 ======
